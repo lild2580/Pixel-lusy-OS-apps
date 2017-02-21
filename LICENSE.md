@@ -5,5 +5,3 @@ DownloadProviderUi.apk
 NexusLauncherIcons.apk
 NexusLauncherPrebuilt.apk
 SystemUI.apk
-
-NOT COPY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
